@@ -16,11 +16,11 @@ O repositório está organizado em módulos por assuntos do edital. Cada pasta c
 
 | Módulo | Descrição do Conteúdo | Status |
 |---|---|---|
-| 📐 **[01. Sequenciais](./01-sequenciais)** | Variáveis, constantes, operadores aritméticos, entrada e saída de dados | 🟢 Concluído |
-| 🔀 **[02. Condicionais](./02-condicionais)** | Estruturas de seleção (`if`, `else`, `switch`), operadores lógicos e validações | 🟢 Concluído |
-| 🔄 **[03. Repetições](./03-repeticoes)** | Laços de repetição (`for`, `while`, `do-while`), acumuladores e séries | 🟢 Concluído |
-| 🔤 **[04. Strings](./04-strings)** | Manipulação de texto, percorrimento por índices, pesquisas e validações | 🟢 Concluído |
-| 🔢 **[05. Vetores](./05-vetores)** | Arrays unidimensionais, pesquisas, ordenação e manipulação por índice | 🟢 Concluído |
+| 📐 **[01. Variáveis e Constantes](./01-variaveis-e-constantes)** | Variáveis, constantes, operadores aritméticos, entrada e saída de dados | ⏳ Em andamento |
+| 🔀 **[02. Condições](./02-condicoes)** | Estruturas de seleção (`if`, `else`, `switch`), operadores lógicos e validações | ⏳ Em andamento |
+| 🔄 **[03. Repetições](./03-repeticoes)** | Laços de repetição (`for`, `while`, `do-while`), acumuladores e séries | ⏳ Em andamento |
+| 🔤 **[04. Strings](./04-strings)** | Manipulação de texto, percorrimento por índices, pesquisas e validações | ⏳ Em andamento |
+| 🔢 **[05. Vetores](./05-vetores)** | Arrays unidimensionais, pesquisas, ordenação e manipulação por índice | ⏳ Em andamento |
 
 ---
 
@@ -36,8 +36,8 @@ O repositório está organizado em módulos por assuntos do edital. Cada pasta c
 ```text
 apple-developer-academy-prep/
 ├── README.md                  <-- Página principal
-├── 01-sequenciais/            <-- Exercícios de Entrada/Saída/Operações
-├── 02-condicionais/           <-- Exercícios de Estruturas de Seleção
+├── 01-variaveis-e-constantes/ <-- Exercícios de Entrada/Saída/Operações
+├── 02-condicoes/              <-- Exercícios de Estruturas de Seleção
 ├── 03-repeticoes/             <-- Exercícios de Laços e Séries
 ├── 04-strings/                <-- Exercícios de Processamento de Texto
 └── 05-vetores/                <-- Exercícios de Arrays Unidimensionais
